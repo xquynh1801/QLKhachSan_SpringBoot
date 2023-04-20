@@ -10,18 +10,18 @@ I.Chức năng của hệ thống web
 6. Các chức năng quản lí khách sạn
 
 II.Chia việc
-1.
+- 1:
     + Chức năng đăng nhập, đăng kí 
     + Bảo mật (Spring security cơ bản - mã hóa mật khẩu người dùng)
     + Chức năng cho admin (thêm khách sạn, thêm phòng)
     + Tạo các trang giao diện tương ứng
-2(Quỳnh).
+- 2(Quỳnh):
     + Thiết kế lớp thực thể
     + Chức năng đặt phòng
     + Chức năng tìm khách sạn
     + Thao tác người dùng(follow khách sạn)
     + Tạo các trang giao diện tương ứng
-3.
+- 3:
     + Các chức năng quản lí khách sạn
     + Thống kê khách đặt phòng, thống kê doanh thu theo tháng
     + Tạo các trang giao diện tương ứng
